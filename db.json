@@ -1,0 +1,184 @@
+{
+  "tasks": [
+    {
+      "name": "Shoppingo",
+      "priority": "high",
+      "dueDate": "7th novmber",
+      "categoryId": 1,
+      "id": 1
+    },
+    {
+      "name": "Cooking",
+      "priority": "low",
+      "dueDate": "7th novmber",
+      "categoryId": 1,
+      "id": 2
+    },
+    {
+      "name": "Cleaningg",
+      "priority": "medium",
+      "dueDate": "november1",
+      "categoryId": 1,
+      "id": 3
+    },
+    {
+      "name": "Pay billss",
+      "priority": "high",
+      "dueDate": "2018-12-02T09:37:26.129Z",
+      "categoryId": "5",
+      "id": 4
+    },
+    {
+      "name": "Send report",
+      "priority": "medium",
+      "dueDate": "2nov",
+      "categoryId": 2,
+      "id": 5
+    }
+  ],
+  "subtasks": [
+    {
+      "id": 1,
+      "taskId": 1,
+      "item": "Milkkg",
+      "done": true,
+      "optional": false
+    },
+    {
+      "id": 2,
+      "taskId": 1,
+      "item": "Eggs",
+      "done": false,
+      "optional": false
+    },
+    {
+      "id": 3,
+      "taskId": 1,
+      "item": "Tomatoes",
+      "done": false,
+      "optional": false
+    },
+    {
+      "id": 4,
+      "taskId": 1,
+      "item": "Meat",
+      "done": false,
+      "optional": true
+    },
+    {
+      "id": 5,
+      "taskId": 2,
+      "item": "Preheat oven",
+      "done": true,
+      "optional": false
+    },
+    {
+      "id": 6,
+      "taskId": 2,
+      "item": "Cut vegetables",
+      "done": false,
+      "optional": false
+    },
+    {
+      "id": 7,
+      "taskId": 2,
+      "item": "Boil vegetables",
+      "done": false,
+      "optional": false
+    },
+    {
+      "id": 8,
+      "taskId": 2,
+      "item": "Mix ingredients",
+      "done": true,
+      "optional": false
+    },
+    {
+      "id": 9,
+      "taskId": 2,
+      "item": "Put in oven",
+      "done": false,
+      "optional": false
+    },
+    {
+      "id": 10,
+      "taskId": 3,
+      "item": "Dust furniture and shelf",
+      "done": true,
+      "optional": false
+    },
+    {
+      "id": 11,
+      "taskId": 3,
+      "item": "Mop",
+      "done": true,
+      "optional": false
+    },
+    {
+      "id": 12,
+      "taskId": 3,
+      "item": "Vacuum",
+      "done": false,
+      "optional": false
+    },
+    {
+      "id": 13,
+      "taskId": 3,
+      "item": "Clean carpets",
+      "done": true,
+      "optional": true
+    },
+    {
+      "id": 14,
+      "taskId": 3,
+      "item": "Change bed linens",
+      "done": false,
+      "optional": false
+    },
+    {
+      "id": 15,
+      "taskId": 3,
+      "item": "Laundry",
+      "done": true,
+      "optional": false
+    },
+    {
+      "id": 16,
+      "taskId": 3,
+      "item": "Dispose Garbage2",
+      "done": false,
+      "optional": false
+    },
+    {
+      "id": 17,
+      "taskId": 4,
+      "item": "Pay phone bills",
+      "done": false,
+      "optional": false
+    },
+    {
+      "id": 18,
+      "taskId": 5,
+      "item": "Review report",
+      "done": false,
+      "optional": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "email": "john.smith@example.com"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Personal"
+    },
+    {
+      "id": 2,
+      "name": "Work"
+    }
+  ]
+}
