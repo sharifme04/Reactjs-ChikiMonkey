@@ -20,3 +20,8 @@ This should start the HTTP server http://localhost:4000
 
 
 Please see the screenshot to see the view
+![screenshot](Screenshots/1.PNG)
+![screenshot](Screenshots/2.PNG)
+![screenshot](Screenshots/3.PNG)
+![screenshot](Screenshots/4.PNG)
+![screenshot](Screenshots/5.PNG)
