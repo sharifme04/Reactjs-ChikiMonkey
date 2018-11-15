@@ -1,4 +1,4 @@
-For running this code , 
+For running this code , yiu need to do following
 
 First
 ________
